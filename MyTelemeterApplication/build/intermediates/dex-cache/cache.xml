@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nsab0001/dev/perso/Android/MyTelemeterApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/nsab0001/dev/perso/Android/MyTelemeterApplication/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_05146fc76c69bcad59ebcddbc9533f138f466fa8.jar" />
+    </item>
+    <item
+        jar="/Users/nsab0001/dev/perso/Android/MyTelemeterApplication/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/nsab0001/dev/perso/Android/MyTelemeterApplication/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_dac0e269512306c8339f186b6dea4df29bc460c0.jar" />
+    </item>
+    <item
+        jar="/Users/nsab0001/dev/perso/Android/MyTelemeterApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/nsab0001/dev/perso/Android/MyTelemeterApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_1bfce5d7486a14364e635bddbed43bf43dfee4b0.jar" />
+    </item>
+    <item
+        jar="/Users/nsab0001/dev/perso/Android/MyTelemeterApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/nsab0001/dev/perso/Android/MyTelemeterApplication/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_eb596721326084512e5d531d055347862b7ca0cf.jar" />
+    </item>
+    <item
+        jar="/Users/nsab0001/dev/perso/Android/MyTelemeterApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/nsab0001/dev/perso/Android/MyTelemeterApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_7ac19c92a28ebc0b869a126f992ae0a530152555.jar" />
+    </item>
+    <item
+        jar="/Users/nsab0001/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/nsab0001/dev/perso/Android/MyTelemeterApplication/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_0b9fa27c9b5679eb8ee30c0eaf8569bb020b4add.jar" />
+    </item>
+    <item
+        jar="/Users/nsab0001/dev/perso/Android/MyTelemeterApplication/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/nsab0001/dev/perso/Android/MyTelemeterApplication/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_721260371dfa63ff0108ecb6de3664015e90ab34.jar" />
+    </item>
+    <item
+        jar="/Users/nsab0001/dev/perso/Android/MyTelemeterApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/nsab0001/dev/perso/Android/MyTelemeterApplication/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_ad3174d1fdb23706df9c2dc8281cf0c1a43adf00.jar" />
+    </item>
+
+</items>
