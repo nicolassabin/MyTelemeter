@@ -800,6 +800,9 @@ public class MainActivity extends AppCompatActivity implements ActivityCompat.On
                 public void onCaptureCompleted(@NonNull CameraCaptureSession session,
                                                @NonNull CaptureRequest request,
                                                @NonNull TotalCaptureResult result) {
+
+
+                    mFile = new File(String.valueOf(System.currentTimeMillis()));
                     showToast("Saved: " + mFile);
                     Log.d(TAG, mFile.toString());
                     unlockFocus();
